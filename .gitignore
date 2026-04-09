@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Local env files — NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Project data — user uploads and renders are not part of the repo
+uploads/
+renders/
+
+# TypeScript build info
+tsconfig.tsbuildinfo
+
+# Dev utilities
+screenshot-tool.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code config (local settings, plans, memory)
+.claude/
+
+# Editor
+.vscode/
+.idea/
