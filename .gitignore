@@ -18,7 +18,7 @@ renders/
 tsconfig.tsbuildinfo
 
 # Dev utilities
-screenshot-tool.js
+screenshot-*.js
 
 # OS
 .DS_Store
